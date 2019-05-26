@@ -1,6 +1,6 @@
 # Nanodbc Godot
 
-This repository provides [nanodbc](https://github.com/nanodbc/nanodbc) wrapper for [Godot](https://github.com/godotengine/godot)
+This repository provides s [nanodbc](https://github.com/nanodbc/nanodbc) wrapper for [godot](https://github.com/godotengine/godot)
 
 It is still very much WIP and only has basic support for connecting to a DB, executing some SQL and retrieving some rows
 
